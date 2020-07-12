@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296320192937",
+    "firebase_url": "https://uasdwiki.firebaseio.com",
+    "project_id": "uasdwiki",
+    "storage_bucket": "uasdwiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296320192937:android:1c0bff27a0c92dfe4234b8",
+        "android_client_info": {
+          "package_name": "com.dwiki.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296320192937-4b1i1079anjhqa7ua4deagcqn33md3u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXsF0q_m0bijwYLvZ-HsZTAbHK5cmlqD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296320192937-4b1i1079anjhqa7ua4deagcqn33md3u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
